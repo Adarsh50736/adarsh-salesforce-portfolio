@@ -1,5 +1,9 @@
 # Adarsh Shende — Salesforce Developer Portfolio
 
+🌐 **Live Portfolio:** [View My Portfolio](https://adarsh50736.github.io/adarsh-salesforce-portfolio/)
+
+A professional portfolio showcasing my Salesforce development skills, experience, and projects.
+
 A responsive, single-page portfolio built with plain HTML, CSS and JavaScript. No build step or package installation is required.
 
 ## Files
